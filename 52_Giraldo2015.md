@@ -1,0 +1,7 @@
+Giraldo Cárdenas, Laura, Díaz Zapata, John Malver, Arboleda Ríos, Sandra Milena, Galarcio Padilla, Cindy Lucia, Lotero Botero, Jorge Enrique, & Isaza Cuervo, Felipe. (2015). Modelo de selección de portafolio óptimo de acciones mediante el análisis de Black-Litterman. Revista Ingenierías Universidad de Medellín, 14(27), 111-130. Retrieved March 20, 2022, from [http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S1692-33242015000200008&lng=en&tlng=es](http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S1692-33242015000200008&lng=en&tlng=es).           
+
+**52. Modelo de selección de portafolio óptimo de acciones mediante el análisis de Black-Litterman.**
+
+En esta investigación se presenta la propuesta de Black-Litterman como una herramienta para mejorar la selección optima de portafolios y como un insumo que mejora la estructuración de portafolios a través del modelo clásico propuesto por Markowitz. Asimismo, se incorporan las visiones de los inversionistas, los resultados obtenidos mediante Black-Litterman con el beneficio de crear mejores portafolios de inversión a través del modelo de Markowitz para la maximización de rendimientos y minimización de varianza.
+
+Además, se realiza una presentación teórica del modelo de Black-Litterman y se realiza un análisis de caso estructurando un portafolio optimo sobre el índice COLCAP del mercado de valores colombiano para el año 2013.
