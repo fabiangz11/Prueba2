@@ -1,6 +1,6 @@
 Casanova, I. J. (2010). Tradinnova-LCS: Dynamic stock portfolio decision-making assistance model with genetic based machine learning. En IEEE Congress on Evolutionary Computation. 2010 IEEE Congress on Evolutionary Computation (CEC). IEEE. [https://doi.org/10.1109/cec.2010.5586067](https://doi.org/10.1109/cec.2010.5586067)
 
-#ML  #Dinamico #Algoritmo-genetico
+#ML  #Dinamico #Algoritmos-geneticos
 
 **18. Tradinnova-LCS: Dynamic stock portfolio decision-making assistance model with genetic-based machine learning**
 
