@@ -1,5 +1,6 @@
 Buriticá-Mejía, J. A. (2020). Modelo Black-Litterman con Support Vector Regression: una alternativa para los fondos de pensiones obligatorios colombianos. En ODEON (Issue 18, pp. 205–257). Universidad Externado de Colombia. [https://doi.org/10.18601/17941113.n18.06](https://doi.org/10.18601/17941113.n18.06)           
 
+#Black-Litterman #Markowitz #SVM #Pensiones #Colombia
 
 **19. Modelo Black-Litterman con Support Vector Regression: una alternativa para los fondos de pensiones obligatorios colombianos**
 
