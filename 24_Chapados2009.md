@@ -1,5 +1,7 @@
 Chapados, N. (2009). Sequential Machine Learning Approaches for Portfolio Management. Thèses et Mémoires de l'Université de Montréal. Retrieved February 10, 2022, Recuperado de [https://papyrus.bib.umontreal.ca/xmlui/handle/1866/2620/](https://papyrus.bib.umontreal.ca/xmlui/handle/1866/2620/)           
 
+#ML #Portafolios #NN #Gaussian-processes #Dinamico #Optimización #Time-series
+
 **24. Sequential Machine Learning Approaches for Portfolio Management**
 
 En esta tesis se encuentra gran parte de los orígenes y contexto de la creación de portafolios de inversión por medio de la elección que te provee Markowitz con conceptos base de la frontera eficiente en el riesgo y el retorno llegando hasta una metodología mejorada llamada _Modern Portfolio Theory (MPT)._

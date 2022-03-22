@@ -1,5 +1,7 @@
 Fernandez Cortez, V., Valle Cruz, D., & Lizola Margolis, P. (2019). Optimización de Portafolios de Inversión con Algoritmos Genéticos. Revista De InvestigacióN En Ciencias Contables Y Administrativas, 4(2). Recuperado de [https://ricca.umich.mx/index.php/ricca/article/view/77/85](https://ricca.umich.mx/index.php/ricca/article/view/77/85)      
 
+#Algoritmos-genéticos #Optimización #Portafolios #Bolsa #Acciones #México
+
 **23. Optimización de Portafolios de Inversión con Algoritmos Genéticos**
 
 Se desarrolla la optimización de portafolios de Inversión conformados por acciones de empresas nacionales emisoras que participen en la Bolsa Mexicana de Valores en 2018 haciendo uso de Algoritmos Genéticos, con el fin de conformar portafolios eficientes que establezcan el monto óptimo de inversión en cada uno de los instrumentos seleccionados, además de generar gran diversificación.
