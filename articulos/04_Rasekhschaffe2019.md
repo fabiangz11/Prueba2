@@ -1,6 +1,6 @@
 Rasekhschaffe, K. C., & Jones, R. C. (2019). Machine Learning for Stock Selection. En Financial Analysts Journal (Vol. 75, Issue 3, pp. 70–88). Informa UK Limited. [https://doi.org/10.1080/0015198x.2019.1596678](https://doi.org/10.1080/0015198x.2019.1596678)          
 
-#ML #Portafolios #Selección
+#ML #Portafolios #Selección #Acciones #Benchmark #
 
 **04. Machine Learning for Stock Selection**
 
