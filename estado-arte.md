@@ -48,3 +48,4 @@ Aún más importante, es que del estudio se expone que la mayoría de los jóven
 Finalmente, otro problema que destacan los autores es el aumento en la brecha pensionaria por sexo que prevalecerá en el futuro de los jóvenes mexicanos, y a partir de la cual, las mujeres tendrán más dificultades en su vejez por la dificultad que tendrán para cumplir con los requisitos para recibir su pensión, al mismo tiempo que el 70% de la población de mujeres jóvenes mexicanas no cuentan con una cuenta individual, y en el caso de que si cuenten con una esta será inferior a la de hombres, como lo mencionan Castañón Ibarra y Rodríguez García (2018, como se citó en Atlatenco-Ibarra et al., 2020) [[40_Atlatenco2020]] debido a una mayor esperanza de vida, las brechas salariales que aun prevalecen en la sociedad mexicana, entre otros factores.
 
 ## ¿Qué trabajos existen?
+Ninguno XD
