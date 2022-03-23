@@ -3,7 +3,7 @@
 
 ## Análisis histórico del sistema de pensiones
 
-A lo largo de la historia uno de los grandes retos de la seguridad social ha sido el de poder garantizar al trabajador, al llegar al término de su vida laboral, una pensión o jubilación suficiente que le permita tener una vida digna de acuerdo con lo establecido en la Constitución de los Estados Unidos Mexicanos [[39_Ruiz2020]]. 
+A lo largo de la historia uno de los grandes retos de la seguridad social ha sido el de poder garantizar al trabajador, al llegar al término de su vida laboral, una pensión o jubilación suficiente que le permita tener una vida digna de acuerdo con lo establecido en la Constitución de los Estados Unidos Mexicanos (Ruiz, 2020) [[39_Ruiz2020]]. 
 
 Gómez (2016) [[27_Gómez2016]] menciona que el primer sistema de pensiones en México se creó conforme al tipo de beneficio definido e inició el 12 de agosto de 1925, cuando fue promulgada la Ley General de Pensiones Civiles y de Retiro. En esta ley se contemplaban las pensiones por vejez e inhabilitación, así como también pensiones para los deudos del trabajador cuando perdía la vida a causa de sus labores, esta ley, posteriormente se transformó en el Instituto de Seguridad y Servicios Sociales de los Trabajadores (ISSSTE). Posteriormente en 1943 surge el Instituto Mexicano del Seguro Social (IMSS) y actualmente es la institución con mayor presencia en cuanto a atención a la salud y protección social de los mexicanos (IMSS, 2020).
 
@@ -19,7 +19,7 @@ Conforme los ahorradores avanzaban a lo largo de su vida laboral, las reglas de 
 
 Sin embargo, de 2003 a 2016 los rendimientos históricos nominales mostraron una evidente tendencia a la baja ya que pasaron del 17.9% a un 10.6%. Y los rendimientos reales decrecieron aproximadamente 42%. Además, dentro de 2008 y 2016 se observó en promedio un crecimiento de los rendimientos reales del 5.4%.
 
-Esto podría estar relacionado con la operación de los comités de inversión y de riesgos financieros de las SIEFORES y específicamente en sus estrategias de inversión para la compra y venta de instrumentos financieros. Además, de que podría afectar el ahorro del trabajador, ya que los rendimientos generados por las SIEFORES representan una parte significativa de su ahorro (Pacheco, 2020).
+Esto podría estar relacionado con la operación de los comités de inversión y de riesgos financieros de las SIEFORES y específicamente en sus estrategias de inversión para la compra y venta de instrumentos financieros. Además, de que podría afectar el ahorro del trabajador, ya que los rendimientos generados por las SIEFORES representan una parte significativa de su ahorro (Cornejo, 2020) [[30_Cornejo2020]].
 
 En 2019 se estimó que solamente el 24% de los trabajadores cotizantes alcanzarían los requisitos para recibir una pensión. Asimismo, la densidad promedio del sistema fue de 42.9%, es decir, la proporción del tiempo que las personas han cotizado al sistema de seguridad social entre el tiempo que estas han trabajado.
 
