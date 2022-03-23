@@ -1,5 +1,7 @@
 De Greiff, S., & Rivera, J. C. (2018). Optimización de portafolios de inversión con costos de transacción utilizando un algoritmo genético multiobjetivo: caso aplicado a la Bolsa de Valores de Colombia. Estudios gerenciales, 74–87. [https://doi.org/10.18046/j.estger.2018.146.2812](https://doi.org/10.18046/j.estger.2018.146.2812)
 
+#Optimización #Portafolios #Colombia #Multi-objetivo #Algoritmos-genéticos #Bolsa #Markowitz #Acciones 
+
 **34. Optimización de portafolios de inversión con costos de transacción utilizando un algoritmo genético multiobjetivo: caso aplicado a la Bolsa de Valores de Colombia.**
 
 Para este artículo de investigación se aborda la optimización de portafolios teniendo en cuenta restricciones impuestas por los mercados financieros y condiciones de proyectos con exceso de liquidez, como costos de transacción, presupuesto limitado y horizontes de tiempo cortos. Dadas esas condiciones se encontró que los modelos convencionales pueden generar portafolios ineficientes. Por lo tanto, se formula un modelo matemático y se implementa un algoritmo genético multiobjetivo para hallar portafolios eficientes en la Bolsa de Valores de Colombia, minimizando el riesgo y maximizando la rentabilidad. Adicionalmente, se presentan resultados que permiten comparar los portafolios obtenidos con el modelo propuesto y el modelo de media-varianza, mostrando la importancia de los costos de transacción y el presupuesto en la toma de decisiones de inversión.
