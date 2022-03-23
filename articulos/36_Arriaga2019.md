@@ -1,5 +1,7 @@
 Arriaga Navarrete, Rosalinda, Castro Olivares, Jorge Eduardo, & Sosa Castro, Miriam. (2019). Análisis de estrategias de inversión de diversificación internacional: portafolios tradicionales vs ETFS. Análisis económico, 34(87), 41-70. Epub 13 de noviembre de 2020. Recuperado en 22 de febrero de 2022, de [http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S2448-66552019000300041&lng=es&tlng=es](http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S2448-66552019000300041&lng=es&tlng=es)           
 
+#Portafolios #ETF #México #Markowitz #VaR #Acciones #Bolsa #Optimización 
+
 **36. Análisis de estrategias de inversión de diversificación internacional: portafolios tradicionales vs ETFs**
 
 Este artículo tiene como objetivo analizar y comparar estrategias de diversificación internacional utilizando activos tradicionales (acciones) y ETF de cuatro países diferentes: Alemania, Reino Unido, EE. UU. y México; con datos de enero de 2012 a abril de 2018.

@@ -1,5 +1,7 @@
 Oliveira Abensur, Eder (2014). MARKOV CHAIN PORTFOLIO LIQUIDITY OPTIMIZATION MODEL. Independent Journal of Management & Production, 5(2),360-380. [fecha de Consulta 22 de Febrero de 2022]. ISSN. Disponible en: [https://www.redalyc.org/articulo.oa?id=449544334007](https://www.redalyc.org/articulo.oa?id=449544334007)           
 
+#Markov-chain #Portafolios #Optimización #Algoritmos-genéticos #Brasil #Markowitz #Ratios-de-liquidez #Acciones 
+
 **37. Markov chain portfolio liquidity optimization model.**
 
 Esta revista propone un modelo de optimización basado en cadenas de markov y algoritmos genéticos dado que estos consideran la dualidad clásica del riesgo vs el retorno e incorporan costos de liquidez al portafolio. Se pretende principalmente proponer un modelo de optimización no lineal multicriterio usando la liquidez que ofrecen las cadenas de markov.
