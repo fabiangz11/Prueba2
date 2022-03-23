@@ -1,5 +1,7 @@
 Trujillo, M.E., (2009); Construcción y gestión de portafolios con el modelo Black-Litterman: Una aplicación a los fondos de pensiones obligatorias en Colombia, Trabajo de grado, Universidad de los Andes.           
 
+#Black-Litterman #Colombia
+
 **47. Construcción y gestión de portafolios con el modelo Black-Litterman: Una aplicación a los fondos de pensiones obligatorias en Colombia.**
 
 El objetivo de esta tesis es la combinación del modelo Black-Litterman para calcular los retornos esperados de mercado usando un enfoque bayesiano pata analizar detalladamente su aplicación a los fondos de pensiones obligatorios en Colombia. Se obtuvieron resultados que confirman los beneficios de utilizar el modelo de Black-Litterman a diferencia del enfoque tradicional.

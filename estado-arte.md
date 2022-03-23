@@ -47,5 +47,35 @@ Aún más importante, es que del estudio se expone que la mayoría de los jóven
 
 Finalmente, otro problema que destacan los autores es el aumento en la brecha pensionaria por sexo que prevalecerá en el futuro de los jóvenes mexicanos, y a partir de la cual, las mujeres tendrán más dificultades en su vejez por la dificultad que tendrán para cumplir con los requisitos para recibir su pensión, al mismo tiempo que el 70% de la población de mujeres jóvenes mexicanas no cuentan con una cuenta individual, y en el caso de que si cuenten con una esta será inferior a la de hombres, como lo mencionan Castañón Ibarra y Rodríguez García (2018, como se citó en Atlatenco-Ibarra et al., 2020) [[40_Atlatenco2020]] debido a una mayor esperanza de vida, las brechas salariales que aun prevalecen en la sociedad mexicana, entre otros factores.
 
-## ¿Qué trabajos existen?
-Ninguno XD
+## ¿Qué trabajos existen?   
+A la fecha, se han propuestos varios modelos y estrategias de optimización para definir una forma más eficaz de crear portafolios que mejoren la tasa de reemplazo o la pensión neta al final de un periodo de inversión, al mismo tiempo que se controlan los niveles de riesgo, con la finalidad de ofrecer a los trabajadores la opción de una mayor renta de jubilación que los fondos de pensiones de contribución definida. 
+
+- #Markowitz 
+
+El modelo más popular para el análisis de portafolios de inversión es el desarrollado por Harry Markowitz en su artículo _Portfolio Selection_ [[Markowitz1952]], donde se propone que el inversionista debe abordar el portafolio como un todo, estudiando el riesgo y rendimiento global, en lugar de escoger los activos solo por su desempeño individual. [[12_Ramírez2016]]
+
+La metodología toma en consideración el rendimiento y la volatilidad esperados, de tal forma que el portafolio óptimo se conforme tras elegir el máximo nivel de rendimiento disponible para un determinado nivel de riesgo. [[31_Godínez2015]] [[32_González2017]]
+
+(Parafrasear 31, 32, 48, 49)
+
+Brinson, Diermeier y Schlarbaum (1986) señalan la importancia de contar con portafolios de referencia para la administración exitosa de un fondo de pensiones y proponen, para fondos de pensiones del mercado estadounidense, un portafolio de referencia compuesto por índices de mercado, llamado Índice de Mercados Múltiples (MMI). [[48_Brinson1986]] 
+
+Este ensayo realiza el análisis del ahorro pensional colombiano usando el marco clásico de frontera eficiente en el espacio media-varianza mediante la selección de un conjunto de activos en los que las AFP puedan invertir y se exhibe la metodología para determinar la distribución conjunta de los retornos. Los resultados obtenidos mostraron que los fondos de pensiones están por debajo de la frontera eficiente que considera las restricciones regulatorias, además, demostró que todos los portafolios eficientes tienen exposición a activos externos de 20%, el cual es el máximo permitido por la superintendencia financiera. [[49_Jara2005]]
+
+[[26_Banda2014]]  [[45_Valdés2014]] 
+[[28_Banda2017]] 
+[[29_Núñez2019]]
+[[30_Cornejo2020]]
+
+- #Black-Litterman 
+
+Otro modelo común en el estudio de portafolios de inversión diseñados para la jubilación, es el de #Black-Litterman, el cual propone una metodología mejorada sobre la de Markowitz, enfocandose en aspectos controlables del proceso de inversión y maximizando el rendimiento esperado a largo plazo, considerando el nivel de riesgo deseado por el inversionista. [[19_Buriticá2020]] [[47_Trujillo2009]]
+
+Dentro de las ventajas que describe [[35_Arbeláez2011]] que tiene este modelo sobre el de Markowitz destacan: mayor consistencia en el proceso de asignación de activos; mayor flexibilidad, y mayor posibilidad de diversificación al permitir la inclusión, o no, de expectativas que se tengan de cada componente del portafolio.
+
+Uno de los trabajos que aplican el modelo en el tema de pensiones es el de [[47_Trujillo2009]] quien obtuvo portafolios más diversificados e intuitivos que los que se obtienen aplicando metodología tradicional en Colombia. Más adelante, [[46_JELOMA2012]] generó un portafolio óptimo en cuanto a la asignación de activos administrados por las SIEFORES en México incorporando el enfoque de lógica borrosa, con el propósito de acotar los problemas tradicionales de toma de decisiones de inversión de una manera transparente y simple, además de obtener mayores rendimientos. 
+
+Posteriormente, [[19_Buriticá2020]] empleo la metodología junto con un modelo _Support Vector Machine_ para comprobar la utilidad de los algoritmos de aprendizaje en el campo financiero, especificamente los fondos de pensiones obligatorios colombianos.
+
+- ML
+[[60_Irlam2020]] 
