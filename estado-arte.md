@@ -57,7 +57,7 @@ A la fecha, se han propuestos varios modelos y estrategias de optimización para
 
 El modelo más popular para el análisis de portafolios de inversión es el desarrollado por Harry Markowitz en su artículo _Portfolio Selection_ [[Markowitz1952]], donde se propone que el inversionista debe abordar el portafolio como un todo, estudiando el riesgo y rendimiento global, en lugar de escoger los activos solo por su desempeño individual.  [[12_Ramírez2016]]
 
-El modelo de Markowitz es considerado la primera formalizacion matematica de la idea de diversicación de inversiones [[32_González2017]] . Por esto , el princibal objetivo de la formación de un portafolio de inversión es reducir el riesgo por medio de la diversificación, es decir, que el riesgo asociado al portafolio en su totalidad , sea menor a la suma del riesgo inherente a cada uno de los activos que lo conforman. 
+Este modelo es considerado la primera formalizacion matematica de la idea de diversicación de inversiones [[32_González2017]] . Por esto , el principal objetivo de la formación de un portafolio de inversión es reducir el riesgo por medio de la diversificación, es decir, que el riesgo asociado al portafolio en su totalidad , sea menor a la suma del riesgo inherente a cada uno de los activos que lo conforman. 
 
 La selección de los portafolios se sustenta en el siguiente supuesto: maximizar el rendimiento esperado a determinado nivel de riesgo o bien minimizar el riesgo a un cierto nivel de rendimiento esperado. [[31_Godínez2015]]
 
@@ -99,3 +99,7 @@ Posteriormente, [[19_Buriticá2020]] empleo la metodología junto con un modelo 
 
 - ML
 [[60_Irlam2020]] 
+
+Irlam (2020), proporciona un vistazo en como el aprendizaje automático es utilizado en problemas de planeación financiera, luego mediante un caso de estudio hace uso de _reinforcement learning_ para realizar alocación de activos, anualización y desiciones de consumo en planes para el retiro. Hace uso de variables como mortalidad, aversión al riesgo y modelos como:  GARCH para activos de renta variable, Hull-White para bonos y también incorpora un modelo para impuestos basado  en el código de impuestos de los Estados Unidos en 2020, haciendo este un estudio integral para el problema de planeación del retiro.
+
+Los resultados indican que las metodologías de Machine Learning tienen mejor desempeño que otras propuestas para resolver problemas financieros complejos cuya solución optima no es analiticamente viable de obtener.
