@@ -48,7 +48,9 @@ Aún más importante, es que del estudio se expone que la mayoría de los jóven
 Finalmente, otro problema que destacan los autores es el aumento en la brecha pensionaria por sexo que prevalecerá en el futuro de los jóvenes mexicanos, y a partir de la cual, las mujeres tendrán más dificultades en su vejez por la dificultad que tendrán para cumplir con los requisitos para recibir su pensión, al mismo tiempo que el 70% de la población de mujeres jóvenes mexicanas no cuentan con una cuenta individual, y en el caso de que si cuenten con una esta será inferior a la de hombres, como lo mencionan Castañón Ibarra y Rodríguez García (2018, como se citó en Atlatenco-Ibarra et al., 2020) [[40_Atlatenco2020]] debido a una mayor esperanza de vida, las brechas salariales que aun prevalecen en la sociedad mexicana, entre otros factores.
 
 ## ¿Qué trabajos existen?   
-A la fecha, se han propuestos varios modelos y estrategias de optimización para definir una forma más eficaz de crear portafolios que mejoren la tasa de reemplazo o la pensión neta al final de un periodo de inversión, al mismo tiempo que se controlan los niveles de riesgo, con la finalidad de ofrecer a los trabajadores la opción de una mayor renta de jubilación que los fondos de pensiones de contribución definida. 
+A la fecha, se han propuestos varios modelos y estrategias de optimización para definir una forma más eficaz de crear portafolios que mejoren la tasa de reemplazo o la pensión neta al final de un periodo de inversión, al mismo tiempo que se controlan los niveles de riesgo, con la finalidad de ofrecer a los trabajadores la opción de una mayor renta de jubilación que los fondos de pensiones de contribución definida.
+
+[[28_Banda2017]] 
 
 - #Markowitz 
 
@@ -68,13 +70,22 @@ Así mismo Jara (2005),  realiza un análisis del ahorro pensional colombiano us
 
 (Parafrasear 48, 49)
 
-Banda (2014) hace una aplicación de la teoría de portafolios de Markowitz a las SIEFORES, en México. El objetivo de este estudio es que mediante dicha tecnica los trabajadores puedan invertir sus ahorros y crear un portafolio personalizado, determinar la combinación más optima de los recursos que se van a invertir. Como herramienta de análisis de riesgo utilizó el VaR y para medir el desempeño se utilizaron los índices de Treynor y Sharpe. [[26_Banda2014]] 
+De manera similar, Banda (2014) hace una aplicación de la teoría de portafolios de Markowitz a las SIEFORES, en México. El objetivo de este estudio es que mediante dicha tecnica los trabajadores puedan invertir sus ahorros y crear un portafolio personalizado, determinar la combinación más optima de los recursos que se van a invertir. Como herramienta de análisis de riesgo utilizó el VaR y para medir el desempeño se utilizaron los índices de Treynor y Sharpe. [[26_Banda2014]] 
+
+objetivo del presente trabajo es elaborar un portafolio de inversión que genere un rendimiento mayor al que actualmente obtienen las SIEFORES. Este portafolio hipotético estará constituido sólo de activos de renta variable, es decir, acciones de empresas que cotizan en laBolsa Mexicana de Valores. Se observará su comportamiento a lo largo de un periodo de tiempo de dos años y medio. Además, se calculará el Valor en Riesgo del portafolio en cuestión para saber si éste presenta un comportamiento estable o volátil. Para tener un punto de comparación, se elaborarán otros dos portafolios, uno que contenga sólo activos libres de riesgo como son los títulos de deuda gubernamental, y uno compuesto por ambos tipos de activos. Esto, con el fin de comprobar si en efecto se cumple el principio de que a mayor riesgo, mayor rendimiento, y de saber si es posible que los ahorros de los trabajadores generen un mayor rendimiento para su retiro sin exponer estos recursos a pérdidas importantes.
+
+Valdés (2014) elabora un portafolio de inversión con el objetivo de que este genere un rendimiento superior al que obtienen las SIEFORES. El protafolio se conforma con activos de renta variable que cotizan en la Bolsa Mexicana de Valores (BMV), se calcula el Valor en Riesgo (VaR) del portafolio para medir su volatilidad, como punto de comparación se elaboran dos porafolios: el primero con activos libres de riesgo gubernamentales y otro con ambos tipos de activos. Se busca comprobar si es podible que los ahorros de los trabajadores generan un mayor rendimiento para  su retiro sin exponerse a un alto nivel de volatilidad. 
+
+El autor concluye que, en situaciones de un mercado estable (volatilidad en un periodo baja) esta hipótesis se cumple, y en efecto, un portafolio hipotético compuesto únicamente de acciones de empresas mexicanas genera un mayor rendimiento que un portafolio que contiene sólo bonos gubernamentales, que aunque son activos libres de riesgo, tienen una rentabilidad por lo general mucho más baja.[[45_Valdés2014]] 
+
+Por otro lado, Nuñez (2019) elabora un portafolio de referencia para cada una de las SIEFORES Básicas (SB1 a SB4), la metodogía propuesta elige dos portafolios a través de dos efoques, el primero de ellos maximiza la probibilidad de obatener una tasa de reemplazo, mientras que el   segundo enfoque seleccionó el portafolio que maximizara los rendimientos ajustados  por riesgo. 
+
+Sus resultados convergen a portafolios aún mas conservadores que los de las SIEFORES. En todos los casos los portafolios de referencia se encuentran se encuentran sobre la froentera eficiente de Markowitz, sin embargo,  están por debajo de los niveles de riesgo y rendimiento ofrecidos por la SIEFORE,  conluyendo así que los portafolios obtenidos pueden verse como una referencia mínima para medir el desempeño de las SIEFORE.  [[29_Núñez2019]]
 
 
-[[45_Valdés2014]] 
-[[28_Banda2017]] 
-[[29_Núñez2019]]
-[[30_Cornejo2020]]
+Adicionalmente, Cornejo (2020) analiza el riesgo y rendimiento de diez SIEFORES pertenecientes a la Siefore básica 3 (SB3) de marzo de 2008 a junio de 2019, con el objetivo de comprobar el postulado establecido por Markowitz de a mayor riesgo, mayor rendimiento.  La metodología usada para estimar el riesgo de mercado se basa en modelos ARIMA-GARCH. 
+
+Los resultados establecen que los fondos los cuales estuvieron expuestos a mayor riesgo no generaron necesariamente mayores rendimientos, este resultado es atribuido a una operación deficiente en el proceso de inversión por parte de las SIEFORES, que potencialmente impactaría en el monto final recibido por el trabajador en el momento de su retiro. [[30_Cornejo2020]]
 
 - #Black-Litterman 
 
