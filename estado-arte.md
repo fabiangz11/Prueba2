@@ -52,17 +52,26 @@ A la fecha, se han propuestos varios modelos y estrategias de optimización para
 
 - #Markowitz 
 
-El modelo más popular para el análisis de portafolios de inversión es el desarrollado por Harry Markowitz en su artículo _Portfolio Selection_ [[Markowitz1952]], donde se propone que el inversionista debe abordar el portafolio como un todo, estudiando el riesgo y rendimiento global, en lugar de escoger los activos solo por su desempeño individual. [[12_Ramírez2016]]
 
-La metodología toma en consideración el rendimiento y la volatilidad esperados, de tal forma que el portafolio óptimo se conforme tras elegir el máximo nivel de rendimiento disponible para un determinado nivel de riesgo. [[31_Godínez2015]] [[32_González2017]]
+El modelo más popular para el análisis de portafolios de inversión es el desarrollado por Harry Markowitz en su artículo _Portfolio Selection_ [[Markowitz1952]], donde se propone que el inversionista debe abordar el portafolio como un todo, estudiando el riesgo y rendimiento global, en lugar de escoger los activos solo por su desempeño individual.  [[12_Ramírez2016]]
 
-(Parafrasear 31, 32, 48, 49)
+El modelo de Markowitz es considerado la primera formalizacion matematica de la idea de diversicación de inversiones [[32_González2017]] . Por esto , el princibal objetivo de la formación de un portafolio de inversión es reducir el riesgo por medio de la diversificación, es decir, que el riesgo asociado al portafolio en su totalidad , sea menor a la suma del riesgo inherente a cada uno de los activos que lo conforman. 
 
-Brinson, Diermeier y Schlarbaum (1986) señalan la importancia de contar con portafolios de referencia para la administración exitosa de un fondo de pensiones y proponen, para fondos de pensiones del mercado estadounidense, un portafolio de referencia compuesto por índices de mercado, llamado Índice de Mercados Múltiples (MMI). [[48_Brinson1986]] 
+La selección de los portafolios se sustenta en el siguiente supuesto: maximizar el rendimiento esperado a determinado nivel de riesgo o bien minimizar el riesgo a un cierto nivel de rendimiento esperado. [[31_Godínez2015]]
 
-Este ensayo realiza el análisis del ahorro pensional colombiano usando el marco clásico de frontera eficiente en el espacio media-varianza mediante la selección de un conjunto de activos en los que las AFP puedan invertir y se exhibe la metodología para determinar la distribución conjunta de los retornos. Los resultados obtenidos mostraron que los fondos de pensiones están por debajo de la frontera eficiente que considera las restricciones regulatorias, además, demostró que todos los portafolios eficientes tienen exposición a activos externos de 20%, el cual es el máximo permitido por la superintendencia financiera. [[49_Jara2005]]
+A continuación, se presentan algunos estudios que aplican la teoría del protafolio de Markowitz en los fondos de pensiones: 
 
-[[26_Banda2014]]  [[45_Valdés2014]] 
+Brinson, Diermeier y Schlarbaum (1986) señalan la importancia de contar con portafolios de referencia para la administración exitosa de un fondo de pensiones y proponen, para fondos de pensiones del mercado estadounidense, un portafolio de referencia compuesto por índices de mercado, llamado Índice de Mercados Múltiples (MMI). La construcción de dicho indice está basada en la suposición que las administradoras de los fondos desean portafolios eficientes en términos de media y varianza.
+[[48_Brinson1986]] 
+
+Así mismo Jara (2005),  realiza un análisis del ahorro pensional colombiano usando el marco clásico de frontera eficiente en el espacio media-varianza mediante la selección de un conjunto de activos en los que las Administradoras de Fondos de Pensiones (AFP) puedan invertir y se exhibe la metodología para determinar la distribución conjunta de los retornos. Los resultados obtenidos mostraron que los fondos de pensiones están por debajo de la frontera eficiente que considera las restricciones regulatorias, además, demostró que todos los portafolios eficientes tienen exposición a activos externos de 20%, el cual es el máximo permitido por la superintendencia financiera. [[49_Jara2005]]
+
+(Parafrasear 48, 49)
+
+Banda (2014) hace una aplicación de la teoría de portafolios de Markowitz a las SIEFORES, en México. El objetivo de este estudio es que mediante dicha tecnica los trabajadores puedan invertir sus ahorros y crear un portafolio personalizado, determinar la combinación más optima de los recursos que se van a invertir. Como herramienta de análisis de riesgo utilizó el VaR y para medir el desempeño se utilizaron los índices de Treynor y Sharpe. [[26_Banda2014]] 
+
+
+[[45_Valdés2014]] 
 [[28_Banda2017]] 
 [[29_Núñez2019]]
 [[30_Cornejo2020]]
